@@ -1,2 +1,4 @@
 # hello-world
-just starting
+
+to jest mój zmieniony readme.md
+
